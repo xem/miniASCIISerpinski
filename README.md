@@ -6,4 +6,4 @@ golfed my benjaminjs, corruptio, xem
 
 small: http://xem.github.io/miniASCIISerpinski (64b)
 
-big: http://xem.github.io/miniASCIISerpinski/big.html (74b)
+big: http://xem.github.io/miniASCIISerpinski/big.html (65b)
